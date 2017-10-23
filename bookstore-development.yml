@@ -1,5 +1,5 @@
 info:
-  description: this is bookstore dev config.
+  description: this is bookstore development config.
   url: https://github.com/lijianfx/config-repo
   foo: aa
 spring:
